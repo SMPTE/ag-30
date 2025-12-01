@@ -1,4 +1,4 @@
-# SMPTE AG 30
+# SMPTE AG 30 - Software License
 
 _This repository is *public*._
 
